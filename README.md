@@ -10,3 +10,6 @@ In this Power BI report you can see deep analysis of IPL datasets till 2019.
 ###### Which batsman acquire more extra runs 
 ###### In which over gone to more extra runs by whom batsman
 ###### Such kind of question’s answer give this visual from datasets
+
+
+You can download Power BI Desktop from https://powerbi.microsoft.com/en-us/downloads/
