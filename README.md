@@ -2,8 +2,8 @@
 In this Power BI report you can see deep analysis of IPL datasets till 2019.
 
 
-##IPL Data Analysis till 2019
-In this Analysis, I have trying to explain about:
+# IPL Data Analysis till 2019
+##In this Analysis, I have trying to explain about:
 ######	Bowler vs Batsman bye runs
 ######	Find out most successful teams
 ###### Successful batsman
